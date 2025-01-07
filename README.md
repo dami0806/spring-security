@@ -5,7 +5,7 @@
 
 
 ## ✅  5분 보드 정리
-[정리 보드 링크](https://large-orchid-b96.notion.site/c6e408f9bbca4d6c988ca0162cc8d20e?pvs=4)
+[정리 보드 링크](https://www.notion.so/111ae64de6ef8094b803e94cbc2a1c72)
 
 ## 배포 환경 Swagger
 [배포 환경 Swagger접속](http://43.203.125.52:8080/swagger-ui/index.html)  
