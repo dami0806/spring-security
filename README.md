@@ -1,5 +1,8 @@
 # spring-security
 
+## 인증 아키텍처
+<img width="861" alt="image" src="https://github.com/user-attachments/assets/6817a38e-a2d9-4c17-b6fd-043d8d81a670" />
+
 ## 💡 ERD  
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/aba37361-0b30-401f-84d2-4da77639d08e">
 
