@@ -1,9 +1,44 @@
 # spring-security
 
+## ⚒️ 기술 스택
+<p align="left">
+    <img src="https://img.shields.io/badge/JDK%2021-E38836?style=flat-square&logo=openJdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Boot%203.4.2-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white">
+</p>
+<p align="left">
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+</p>
+
+### DataBase  
+<p align="left" style="margin-bottom: 10px;">
+    <img src="https://img.shields.io/badge/Redis-FF0000?style=flat-square&logo=redis&logoColor=white" style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/MySQL%208-08668E?style=flat-square&logo=mysql&logoColor=white">
+</p>
+
+### Test 
+<p align="left" style="margin-bottom: 10px;">
+    <img src="https://img.shields.io/badge/Jacoco-6DB33F?style=flat-square" style="display: inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white">
+</p>
+
+### 문서  
+<p align="left" style="margin-bottom: 10px;">
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
+</p>
+
+### 인프라  
+<p align="left" style="margin-bottom: 10px;">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
+
+---
+
 ## Access Token을 사용한 API 요청 흐름  
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/40cdc38a-49e0-4f48-b504-c02d28ccec0a" />
 
-
+---
 
 ##  Spring Security 기반 JWT 인증 및 Redis를 활용한 토큰 관리 구조도  
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/de81b28e-8a12-478a-9fdf-de1c06db8632" />  
