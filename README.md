@@ -35,8 +35,3 @@
 ---
 ## 배포 환경 Swagger
 [배포 환경 Swagger접속](http://43.203.125.52:8080/swagger-ui/index.html)  
-
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/cab994d5-b6c7-4f28-9058-13b36b9e21ac">
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/d6bc9700-9ab7-4659-9a7d-061bac33ea0b">
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/db9b4840-b178-42b6-afba-4fe3dbc13783">
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/c55cb27f-1151-47d3-84cd-cde9b73ed216">
